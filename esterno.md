@@ -22,4 +22,6 @@ e il leone del popolo. Sotto il trigramma si trova inoltre |
 lo stemma della casa dei Medici, applicato in seguito al |
 dominio della famiglia. |
 
-[Storia del palazzo](/index.md) [Interno](/interno.md)
+<p style="float: left;"><a href="/palazzo_di_siena/index.html">Storia del palazzo</a></p>
+
+<p style="float: right;"><a href="/palazzo_di_siena/interno.html">Interno</a></p>
