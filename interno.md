@@ -15,9 +15,15 @@
 Il palazzo all'interno è composto da diverse stanze, la più famosa è quella del Mappamondo (detta anceh Sala del Consiglio). In questa sala si trovano due grandi importanti affreschi: la Maestà e  Guidoriccio da Fogliano all'assedio di Montemassi. Sotto quest'ultimo affresco si trova un altro affresco del quale la paternità è dubbia che rappresenta la presa di un castello. Sotto venne applicato il mappamondo girevole, ormai perduto, che diede nome alla sala.
 </p>
 
-![La Maestà](https://upload.wikimedia.org/wikipedia/commons/a/a0/Maest%C3%A0_di_simone_martini%2C_siena_palazzo_pubblico_1315-1321.jpg){: .tiny-circleIMG}
-![Guidoriccio da Fogliano all'assedio di Montemassi](https://upload.wikimedia.org/wikipedia/commons/2/2b/GuidoriccioDaFogliano.jpg){: .tiny-circleIMG}
+<p align="left">
+La Maestà:<br>
+<img class="tiny-circleIMG" alt="La Maestà" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Maest%C3%A0_di_simone_martini%2C_siena_palazzo_pubblico_1315-1321.jpg">
+</p>
 
+<p align="left">
+Guidoriccio da Fogliano all'assedio di Montemassi:<br>
+<img class="tiny-circleIMG" alt="Guidoriccio da Fogliano all'assedio di Montemassi:" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/GuidoriccioDaFogliano.jpg">
+</p>
 
 <p style="float: left;"><a href="/palazzo_di_siena/index.html">Storia del palazzo</a></p>
 
