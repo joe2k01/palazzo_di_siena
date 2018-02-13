@@ -12,15 +12,15 @@ trigramma di Cristo. Il disco è situato | perchè era un amante del buon cibo, 
 centralmente e si trova una finestra ad | avere per gustare i cibi più particolari. |
 ogni suo lato. |
 
-_**Facciata dell'ultimo piano**_ |
+_**Particolari della facciata**_ |
 -------------------------- |
-La facciata dell'ultimo piano è caratterizzata |
+La facciata è caratterizzata |
 dalla presenza del grosso disco, ma vi sono altri |
 piccoli particolari. Tra lo stemma e le due finestre, |
-bifore, si trovano altri due stemmi: lo stemma cittadino |
-e il leone del popolo. Sotto il trigramma si trova inoltre |
-lo stemma della casa dei Medici, applicato in seguito al |
-dominio della famiglia. |
+bifore, al primo piano di laterizi si trovano altri due |
+stemmi: lo stemma cittadino e il leone del popolo. Sotto |
+il trigramma si trova inoltre lo stemma della casa dei |
+Medici, applicato in seguito al dominio della famiglia. |
 
 <p style="float: left;"><a href="/palazzo_di_siena/index.html">Storia del palazzo</a></p>
 
