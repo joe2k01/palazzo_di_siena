@@ -22,4 +22,4 @@ e il leone del popolo. Sotto il trigramma si trova inoltre |
 lo stemma della casa dei Medici, applicato in seguito al |
 dominio della famiglia. |
 
-[Interno](/interno.md)
+[Storia del palazzo](/index.md) [Interno](/interno.md)

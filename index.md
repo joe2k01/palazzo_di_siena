@@ -6,4 +6,4 @@
 > ghibellino il palazzo svolgeva le funzioni di Dogana e Zecca. La costruzione ebbe inizio con l'utilizzo
 > della pietra, poi vennero utilizzati laterizi. La torre, detta Torre del Mangia, venne costruita successivamente al palazzo. Il palazzo complessivamente è formato da un corpo centrale, due ali laterali e la torre.
 
-[Esterno](/esterno.md)
+[Esterno](/esterno.md) [Interno](/interno.md)

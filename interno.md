@@ -12,3 +12,5 @@ L'interno del palazzo viene dicorato sin da prima della fine della costruzione, 
 * Bartolomeo Neroni
 
 Il palazzo all'interno è composto da diverse stanze, la più famosa è quella del Mappamondo (detta anceh Sala del Consiglio). In questa sala si trovano due grandi importanti affreschi: la Maestà e  Guidoriccio da Fogliano all'assedio di Montemassi. Sotto quest'ultimo affresco si trova un altro affresco del quale la paternità è dubbia che rappresenta la presa di un castello. Sotto venne applicato il mappamondo girevole, ormai perduto, che diede nome alla sala.
+
+[Storia del palazzo](/index.md) [Esterno](/esterno.md)
